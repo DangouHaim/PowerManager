@@ -1,0 +1,14 @@
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.exe.config
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.csprojResolveAssemblyReference.cache
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\MainWindow.g.cs
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\App.g.cs
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma_MarkupCompile.cache
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma_MarkupCompile.lref
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.exe
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.pdb
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\MainWindow.baml
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.g.resources
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.Cache
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.exe
+c:\users\dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.pdb
