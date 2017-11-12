@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\Dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\
+C:\Users\Dangou\documents\visual studio 2015\Projects\Gamma\Gamma\obj\x86\Debug\
 Gamma
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 C:\Users\Dangou\documents\visual studio 2015\Projects\Gamma\Gamma\App.xaml
 11151548125
 
-10-1524447819
+10-1843114091
 151119945334
 MainWindow.xaml;
 
-False
+True
 
